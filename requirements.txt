@@ -1,0 +1,12 @@
+langchain==0.2.11
+langchain-openai==0.1.19
+langchain-community==0.2.10
+langchainhub==0.1.20
+black==24.4.2
+python-dotenv==1.0.1
+langchain-ollama==0.1.0
+requests==2.32.3
+bs4==0.0.2
+selenium==4.23.1
+webdriver-manager==4.0.2
+Flask==3.0.3
